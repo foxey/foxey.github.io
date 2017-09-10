@@ -1,3 +1,3 @@
-[![build status](https://travis-ci.org/foxey/travel-src.svg?branch=master)](https://travis-ci.org/foxey/travel-src)
+[![build status](https://travis-ci.org/foxey/foxey.github.io.svg?branch=hugo-src)](https://travis-ci.org/foxey/foxey.github.io)
 
 Hugo markdown files for static website
