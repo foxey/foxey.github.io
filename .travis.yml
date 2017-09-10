@@ -11,6 +11,7 @@ install:
 # Build the website
 script:
   - ./bin/hugo
+  - echo fokke.org > public/CNAME
 
 # Deploy to GitHub pages
 deploy:
