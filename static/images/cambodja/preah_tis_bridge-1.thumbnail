@@ -1,0 +1,3 @@
+-equalize
+-resize 750
+-crop 750x397+0+100
