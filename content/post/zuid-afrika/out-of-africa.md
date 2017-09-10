@@ -17,3 +17,5 @@ Veel plezier met het lezen van het [reisverslag]({{< relref "kaapstad.md" >}}) v
 Wil je meteen beginnen met lezen? Ga dan naar het [eerste deel]({{< relref "kaapstad.md" >}}) van
 het reisverslag. Ben je benieuwd naar de route, klik dan op één van overzichten
 van de routes in de [West Kaap]({{< relref "west-kaap.md" >}}) of in [Kwazulu-Natal]({{< relref "kwazulu-natal.md" >}}).
+
+Potentiële reizigers naar Zuid-Afrika zullen het lijstje [praktische tips]({{<relref "tips.md" >}}) kunnen waarderen.
