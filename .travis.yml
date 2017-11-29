@@ -12,6 +12,10 @@ install:
 script:
   - ./bin/hugo
   - echo fokke.org > public/CNAME
+  - echo '[![build status](https://travis-ci.org/foxey/foxey.github.io.svg?branch=hugo-src)](https://travis-ci.org/foxey/foxey.github.io)' > public/README.md
+  - echo '# [fokke.org](http://fokke.org)' >> public/README.md
+  - echo 'Static files for my website built with [Hugo](https://gohugo.io)' >> public/README.md
+  
 
 # Deploy to GitHub pages
 deploy:
