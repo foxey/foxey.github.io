@@ -19,7 +19,7 @@ title = "fokke.org - Reisverhalen"
 theme = "tranquilpeak"
 disqusShortname = "fokke-travels"
 newContentEditor = "vi"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-7840077-3"
 paginate = 7
 canonifyurls = true
 
