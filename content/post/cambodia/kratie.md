@@ -43,7 +43,7 @@ opwinding snel vergeten. Een zeilvakantie in Griekenland zit er toch nog niet in
 vrees ik.
 
 <div class="inline-center">
-<iframe name="tubeframe" width="560" height="315" src="https://www.youtube.com/embed/0gU_GO8K0hY" frameborder="0" fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
+<iframe name="tubeframe" width="80%" height="315" src="https://www.youtube.com/embed/0gU_GO8K0hY" frameborder="0" fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
 </div>
 
 We overnachten vannacht en morgennacht in Rajabori Villa’s, een serie prachtige

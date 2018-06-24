@@ -20,13 +20,13 @@ de mist op en het wolkendek open.  Na het ontbijt sla ik in het dorp lunch in
 we weer de bus naar het park.
 
 <div align="center">
-<iframe name="tubeframe" width="742" height="555"
-src="http://www.youtube.com/embed/WMd9ZvViHos?rel=0" frameborder="0"
+<iframe name="tubeframe" width="90%" height="500"
+src="//www.youtube.com/embed/WMd9ZvViHos?rel=0" frameborder="0"
 allowfullscreen>
-</iframe>
-<a class="button this-win" href="http://www.youtube.com/embed/WMd9ZvViHos?rel=0" target="tubeframe">1</a>
-<a class="button this-win" href="http://www.youtube.com/embed/QVqs0WEjjYg?rel=0" target="tubeframe">2</a>
-<a class="button this-win" href="http://www.youtube.com/embed/V3I3c6O4xDg?rel=0" target="tubeframe">3</a>
+</iframe><br>
+<a class="button this-win" href="//www.youtube.com/embed/WMd9ZvViHos?rel=0" target="tubeframe">1</a>
+<a class="button this-win" href="//www.youtube.com/embed/QVqs0WEjjYg?rel=0" target="tubeframe">2</a>
+<a class="button this-win" href="//www.youtube.com/embed/V3I3c6O4xDg?rel=0" target="tubeframe">3</a>
 </div>
 
 Hier blijkt dat de zon een hoop extra mensen aantrekt. De rij bij het treintje

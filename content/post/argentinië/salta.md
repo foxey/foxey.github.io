@@ -34,7 +34,7 @@ Nu hebben we mooi nog even tijd om het <a
 href="http://maam.culturasalta.gov.ar/index.php?lang=english"
 target="_blank">Museo Arqueológico de Alta Montaña</a> te bezoeken. Het museum
 is opgezet rond de vonst van de mummies van drie Inca kinderen, <a
-href="http://www.youtube.com/watch?v=qvCGSrPFOE4" target="_blank">Los Niños de
+href="//www.youtube.com/watch?v=qvCGSrPFOE4" target="_blank">Los Niños de
 Llullaillaco</a>, die <span class="term" title="op 6730 meter">hoog</span> in
 de Andes zijn gevonden. Er zit een redelijk gruwelijk verhaal achter deze
 vonst, want de Inca's offerden kinderen uit voorname families, door de tijdens

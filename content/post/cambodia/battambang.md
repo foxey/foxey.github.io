@@ -50,7 +50,7 @@ tegemoetkomende treinstellen elkaar willen passeren, het treinstel met de
 minste passagiers van de rails getild wordt.
 
 <div class="inline-center">
-<iframe name="tubeframe" width="560" height="315" src="https://www.youtube.com/embed/Bk3xgZAghhY" frameborder="0" fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
+<iframe name="tubeframe" width="80%" height="315" src="https://www.youtube.com/embed/Bk3xgZAghhY" frameborder="0" fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
 </div>
 
 Aan het eind van de middag komen we aan in Battambang Resort, waar een aantal

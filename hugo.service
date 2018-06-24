@@ -1,0 +1,14 @@
+[Unit]
+Description=Hugo Staging Server
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+RootDirectory=/home/michielf/hugo/foxey.github.io
+User=michielf
+Group=users
+ExecStart=/bin/hugo server --bind 0.0.0.0 -b http://sh.fritz.box/ -v -D --disableFastRender
+
+[Install]
+WantedBy=multi-user.target

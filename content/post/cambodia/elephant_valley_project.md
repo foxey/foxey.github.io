@@ -59,7 +59,7 @@ vrijwel helemaal van de planten, vruchten en dieren die ze uit het oerwoud
 verzamelden. Nog steeds zie je mensen, nu alleen de armsten, met een mand op 
 hun rug het bos in gaan om voedsel te verzamelen.
 <div class="inline-center">
-<iframe name="tubeframe" width="560" height="315" src="https://www.youtube.com/embed/2vv2WTT7OaY" frameborder="0" fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
+<iframe name="tubeframe" width="80%" height="315" src="https://www.youtube.com/embed/2vv2WTT7OaY" frameborder="0" fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
 </div>
 
 Na de lunch in het base camp gaan we nog bij de twee olifanten langs die het 
