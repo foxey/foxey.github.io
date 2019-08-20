@@ -64,7 +64,7 @@ security_ voordat je de boot op mag. Nog een fijne erfenis van 9/11. In de rij
 voor ons staan twee meiden uit Maryland. Ze werken hier in een luxe restaurant
 in Manhattan en hebben een dag vrij genomen om de toerist uit te hanhen. New
 York bevalt ze goed, maar ze missen hun familie en willen daarom terug naar
-Maryland. Ze waren allebij aangenomen om in Washinton DC te gaan werken in de
+Maryland. Ze waren allebei aangenomen om in Washinton DC te gaan werken in de
 entourage van Trump, maar ze hebben zo'n hekel aan die vent dat ze dat hebben
 geweigerd. Ze vertelden dat het met het salaris wel goed zat, maar dat de
 beveiliging absurd is.

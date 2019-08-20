@@ -1,4 +1,8 @@
-CONVERT = /usr/bin/convert
+ifeq ($(OS),Windows_NT)
+	CONVERT = magick
+else
+	CONVERT = /usr/bin/convert
+endif
 
 SRC_COVER := $(wildcard *.cover)
 SRC_750 := $(wildcard *.750)

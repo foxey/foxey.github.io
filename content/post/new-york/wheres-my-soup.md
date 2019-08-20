@@ -53,7 +53,7 @@ in Parijs!
 Het MoMa heeft ook een souvenir winkel met een uitgebreide collectie aan boeken,
 kaarten en design. Helaas zijn de prijzen wel ongeveer het dubbele van wat je
 betaalt als je dezelfde spullen ergens anders online bestelt. Toch kopen de
-dames allebij wat kleinigheden als aandenken. Inmiddels is het ongeveer 12:30 en
+dames allebei wat kleinigheden als aandenken. Inmiddels is het ongeveer 12:30 en
 moeten we kiezen tussen lunchen in de buurt van het MoMa of eerst richting
 Chelsea, waar we over de High Line richtig Greenwich Village willen lopen.
 
