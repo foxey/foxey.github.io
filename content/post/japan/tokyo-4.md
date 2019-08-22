@@ -34,7 +34,7 @@ De attractie is een beetje een toeristtrap, want om naar boven te komen moet je 
 {{< image classes="fig-25 nocaption fancybox" src="/images/japan/skytower-4.jpg" thumbnail="/images/japan/skytower-4-thumbnail.jpg" group="end-gallery" title="Skytower view">}}
 {{< image classes="fig-25 nocaption fancybox clear" src="/images/japan/skytower-5.jpg" thumbnail="/images/japan/skytower-5-thumbnail.jpg" group="end-gallery" title="Skytower view">}}
 
-{{< image classes="fig-50 nocaption right" src="/images/japan/ramen.jpg" thumbnail="/images/japan/ramen-thumbnail.jpg" group="inline-images" title="Afuri Ramen">}}
+{{< image classes="fig-50 right" src="/images/japan/ramen.jpg" thumbnail="/images/japan/ramen-thumbnail.jpg" group="inline-images" title="Veganistische ramen bij Afuri">}}
 Volgens een vriendin die in Tokyo gewoond heeft zit er in het metrostation een Ramen restaurant dat ook vegetarische ramen serveert (ja, dit wordt deze reis wel een stokpaardje). [Afuri](http://afuri.com/) is een keten met ook een filiaal in Roppongi Station. De veganistische ramen smaakt prima.
 
 In het hotel aangekomen pakken we onze koffers. De dames hebben wat langer nodig, maar ik ben in vijf minuten klaar. We hebben als goedmakertje voor de kapotte airconditioner nog vier gratis drankjes in de bar tegoed, dus ik besluit om met mijn tablet dit reisverslag bij te werken onder het genot van een biertje. Uiteindelijk komt daar niet veel van terecht, omdat ik aan de praat raak met een Mexicaanse die ook sinds vrijdag in Tokio is. Ze komt uit Toluca en is al sinds haar jeugd gefascineerd door de Japanse cultuur, met name Anime. Haar volgende bestemming is Sapporo. Wij vertrekken morgen om half elf naar Takayama, dus als de bonnen op zijn kruip ik in mijn bed. Morgen op tijd op.

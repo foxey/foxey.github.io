@@ -20,6 +20,9 @@ Azië-virus weer. Dit jaar gaat onze reis van Tokyo via Kyoto, Osaka en
 Hiroshima naar Fukuoka. Het blijft beschamend hoe iedere keer weer blijkt dat
 je topografische kennis van een land zo beperkt is als je er nog nooit geweest
 bent: ik had geen idee dat Fukuoka helemaal in het zuiden van Japan ligt.
+
+{{< image classes="fig-100 nocaption clear" src="/images/japan/tokyo-here-i-come.jpg" thumbnail="/images/japan/tokyo-here-i-come-thumbnail.jpg" group="inline-images" title="Tokyo here I come">}}
+
 Het aankomende vertrek is nog even spannend, want gisteren zijn er door een
 storing in de brandstofbevoorrading negen uur geen vliegtuigen vertrokken
 vanaf Schiphol en de ontstane chaos echoot vandaag nog na. Gelukkig blijkt
@@ -29,7 +32,7 @@ Dat laatste blijkt uiteindelijk niet helemaal waar, want vertrekken we pas
 wanneer we al anderhalf uur in het vliegtuig zitten. Hebben wij even mazzel
 dat de airconditioning het wel doet!
 
-We komen zatermorgen aan op Tokyo Narita Airport en na het gebruikelijke
+{{< image classes="fig-33 right" src="/images/japan/postoffice.jpg" thumbnail="/images/japan/postoffice-thumbnail.jpg" group="inline-images" title="Pardon my French">}}We komen zatermorgen aan op Tokyo Narita Airport en na het gebruikelijke
 ritueel bij de douane en de bagageband haal ik allereerst onze vier
 SIM-kaarten op bij het postkantoor. De komende drie weken hebben we alle vier
 7GB aan data om te verstoken aan Google Maps en Google Translate. De volgende
