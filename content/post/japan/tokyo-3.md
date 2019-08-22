@@ -6,8 +6,7 @@ categories:
 archives:
 - 2019
 title: "Een halve eeuw"
-draft: true
-date: 2019-07-28T00:00:00+02:00
+date: 2019-07-29T00:00:00+02:00
 thumbnailImagePosition: left
 thumbnailImage: /images/japan/halve-eeuw-thumbnail.jpg
 coverImage: /images/japan/halve-eeuw-cover.jpg
@@ -32,23 +31,13 @@ Achter het station liggen de keizerlijke tuinen en het paleis. Het paleis is nie
 
 Floor heeft voor de lunch haar oog laten vallen op een [sushi restaurant](http://www.genkisushi.co.jp/en/), waar de sushi's worden bezorgd op een soort monorail. Er staat een rij als we aankomen. Met typisch Japanse grondigheid, kun je je inschrijven op een wachtlijst en roepen ze je naam om wanneer er een plekje vrij is. De dame die ons inschrijft verwacht dat het nog ongeveer twintig minuten duurt. Lotte en ik glippen daarom nog snel even de Disney Store in om de hoek. We zijn nog geen vijf minuten binnen en Lotte staat net te poseren voor de Marvel vitrine of Floor belt dat we al aan de beurt zijn: _under promise and over deliver!_ We moeten ons een beetje inhouden, want voor vanavond hebben we een reservering in een chic restaurant aan de voet van de Tokyo Tower.
 
-<div align="center">
-<iframe name="tubeframe" width="90%" height="480"
-src="//www.youtube.com/embed/6zsvddQ0vSM?rel=0" frameborder="0"
-allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
-</div>
+{{<youtube id="6zsvddQ0vSM">}}
+
 
 De sushibar ligt om de hoek bij Shibuya Crossing, het wereldberoemde kruispunt met een veelheid aan zebrapaden.
 
-<div align="center">
-<iframe name="tubeframe" width="90%" height="480"
-src="//www.youtube.com/embed/YaKzywzAIQ8?rel=0" frameborder="0"
-allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
-</div>
+{{<youtube id="YaKzywzAIQ8">}}
+
 
 Omdat we niet in ons bezwete vakantiekloffie chic uit eten willen, gaan we na de lunch terug naar het hotel om ons op te frissen en om te kleden. Ik heb speciaal een paar nette schoenen ingepakt, die ik waarschijnlijk alleen vanavond zal dragen. Opgedoft vertrekken we rond vijven met de metro naar de Tokyo Tower. We worden met alle egards ontvangen bij [Tofu-ya UKAI](https://www.ukai.co.jp/shiba/) waar we blijken te dineren in een eigen privévertrek. Privacy is voor Japanners een luxe, maar wij hadden graag een kijkje willen nemen bij de dinergewoonten van de lokale Tokyanen (zeg je dat zo?).
 We worden bediend door een zeer vriendelijke dame in traditionele kledij en een indrukwekkend oog voor detail: de lepel bij het tweede gerecht legt ze bij iedereen rechts neer, behalve bij mij. Blijkbaar heeft ze bij het eerste gerecht gezien dat ik mijn stokjes met links gebruik en daarom legt ze de lepel ook links neer.

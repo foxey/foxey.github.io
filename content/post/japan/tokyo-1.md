@@ -5,8 +5,7 @@ categories:
 - japan
 archives:
 - 2019
-title: "Op naar de reizende zon"
-draft: true
+title: "Op naar de rijzende zon"
 date: 2019-07-27T23:09:04+02:00
 thumbnailImagePosition: left
 thumbnailImage: /images/japan/tokyo-1-thumbnail.jpg
