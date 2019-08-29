@@ -13,7 +13,7 @@ coverImage: /images/japan/sanmachi-2-cover.jpg
 metaAlignment: center
 ---
 Het hotel is typisch Japans, helemaal self-service met een codeslot op de deur. We hebben nog geen staf gezien en er is daarom ook geen catering. Dit hotel is wel één van de weinigen op onze reis dat we inclusief ontbijt hebben geboekt. Ze hebben dit heel handig opgelost met een voucher voor een ontbijt bij een restaurantje in de buurt.
-Voor de deur vindt de [Miyagawa Morning Market](https://maps.app.goo.gl/ZYhVczE9GW9cXi8o7) plaats met kramen verse groente en fruit, maar ook een barista. Na het ontbijt drinken we er een heerlijke cappucinno. Ik heb meteen aanspraak, omdat ik mijn [Uniclo T-shirt](/images/new-york/uniqlo.jpg) uit New York aan heb. Of ik van Ramen houdt…
+Voor de deur vindt de [Miyagawa Morning Market](https://maps.app.goo.gl/ZYhVczE9GW9cXi8o7) plaats met kramen verse groente en fruit, maar ook een barista. Na het ontbijt drinken we er een heerlijke cappucinno. Ik heb meteen aanspraak, omdat ik mijn [Uniclo T-shirt](/images/new-york/uniqlo.jpg) uit New York aan heb. Of ik van Ramen houd…
 
 Vanmorgen geen strak programma, maar gewoon een beetje het stadje verkennen. We bekijken eerst de Sanmachi historische huizen bekeken en daarna naar het historische bestuurskantoor ([Takayama Jinya](https://www.pref.gifu.lg.jp/foreign-languages/English/tourism/takayama/)).
 
