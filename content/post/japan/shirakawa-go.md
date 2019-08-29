@@ -29,3 +29,8 @@ Na de lunch lopen we over een hangbrug richting het openluchtmuseum van Shirakaw
 Rond half zes komen we aan bij het busstation, dat direct naast het treinstation ligt. We reserveren alvast onze tickets naar Kyoto en lopen daarna naar het guesthouse.
 Als we binnenkomen is er nog een Nederlands stel. Hij heeft drie jaar in Tokushima gewoon en z'n vriendin is voor de eerste keer in Japan. Onder het genot van een biertje wisselen we ervaringen uit. We horen in het guesthouse dat het [Kenroku-en park](http://www.pref.ishikawa.jp/siro-niwa/kenrokuen/e/index.html) vanavond verlicht is en voor we gaan eten lopen we eerst naar het park. Door de hitte en de lange dag is de fut er een beetje uit als we aankomen en na een kwartier willen de dames al weer weg. We lopen verder naar de sushibar die ons is aangeraden door één van de medewerkers van het guesthouse. De sushi is er okay, maar we hebben betere gehad. Vanuit het restaurant is het nog een half uur naar het guesthouse lopen en dat trekken we niet meer. Gelukkig gaat er in dezelfde straat een bus tot vlak bij onze slaapplaats.
 Daar aangekomen leggen we onze futons op z'n plek en is de kamer één groot bed. Het ziet er allemaal authentiek Japans uit, maar ik prefereer toch een echte matras.
+
+
+{{< image classes="fig-50" src="/images/japan/guesthouse-nagonde.jpg" thumbnail="/images/japan/guesthouse-nagonde-thumbnail.jpg" group="inline-images" title="Guest House Nagonde, Kanazawa">}}
+{{< image classes="fig-50" src="/images/japan/kenroku-en-park.jpg" thumbnail="/images/japan/kenroku-en-park-thumbnail.jpg" group="inline-images" title="Kenroku-en Park by night">}}
+
