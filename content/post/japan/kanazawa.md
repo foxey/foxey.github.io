@@ -33,7 +33,7 @@ We besluiten om op de weg terug naar het guesthouse nog een highlight aan te doe
 
 {{< image classes="fig-25" src="/images/japan/higashi-chaya-1.jpg" thumbnail="/images/japan/higashi-chaya-1-thumbnail.jpg" group="inline-images" title="Klatergoud">}}
 {{< image classes="fig-50" src="/images/japan/higashi-chaya-2.jpg" thumbnail="/images/japan/higashi-chaya-2-thumbnail.jpg" group="inline-images" title="Theehuis in Higashi Chaya">}}
-{{< image classes="fig-25" src="/images/japan/higashi-chaya-3.jpg" thumbnail="/images/japan/higashi-chaya-3-thumbnail.jpg" group="inline-images" title="Toeristen in Higashi Chaya">}}
+{{< image classes="fig-25 clear" src="/images/japan/higashi-chaya-3.jpg" thumbnail="/images/japan/higashi-chaya-3-thumbnail.jpg" group="inline-images" title="Toeristen in Higashi Chaya">}}
 
 Terug in het guesthouse ploffen we met een biertje en een zak chips in de gezamenlijke ruimte. Mooie tijd om even verder te werken aan het reisverslag.
 
