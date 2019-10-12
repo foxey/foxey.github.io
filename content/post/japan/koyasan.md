@@ -6,7 +6,7 @@ categories:
 archives:
 - 2019
 title: "Boeddha all the way"
-date: 2019-08-06T00:00:00+02:00
+date: 2019-08-08T00:00:00+02:00
 thumbnailImagePosition: left
 thumbnailImage: /images/japan/daito-bell-750.jpg
 coverImage: /images/japan/daito-bell-cover.jpg
