@@ -108,7 +108,7 @@ href="ihttps://en.wikipedia.org/wiki/Trinity_Church_(Manhattan)">Trinity
 Church</a> nemen we de metro naar Grand Central Station om daar over te
 stappen op lijn 7 naar het Citi Field stadion, wat de één na laatste stop
 op de lijn is. We moeten de hele rit staan: het is avondspits en de metro
-stroom steeds voller met Mets fans onderweg naar Citi Field.
+stroomt steeds voller met Mets fans onderweg naar Citi Field.
 
 {{< image classes="nocaption fig-100" src="/images/new-york/wall-street.jpg" thumbnail="/images/new-york/wall-street-thumbnail.jpg" group="inline-images" title="Wall Street">}}
 {{< image classes="fig-50" src="/images/new-york/charging-bull.jpg" thumbnail="/images/new-york/charging-bull-thumbnail.jpg" group="inline-images" title="Bullocks!">}}
