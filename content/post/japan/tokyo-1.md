@@ -39,7 +39,7 @@ SIM-kaarten op bij het postkantoor. De komende drie weken hebben we alle vier
 stop is de kaartenautomaat op het station voor vier Pasmo kaarten, het Japanse
 equivalent van de OV-chipkaart, die een stuk makkelijker werkt en waarmee je
 ook bij de talloze automaten frisdrank en snacks kunt betalen. De
-metroverbinding is perfect en rond twee uur 's-middags staan we in ons hotel.
+metroverbinding is perfect en rond twee uur 's middags staan we in ons hotel.
 Omdat we pas over een uur kunnen inchecken gaan we eerst lunchen. Het cafe bij
 het hotel heeft drie lunchgerechten, waarvan twee met vlees en een met vis.
 Als je strikt vegetarisch eet heb je in Japan wel een uitdaging!

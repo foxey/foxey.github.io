@@ -23,7 +23,7 @@ De reis naar Toyama verloopt vlot en na de overstap zitten we in een sneltrein, 
 
 In Takayama aangekomen is het ondertussen ongeveer even warm als in Tokio, maar het is een stuk minder vochtig, dus voelt de hitte veel minder benauwd aan. Het guest house heeft een e-mail gestuurd met het bericht dat ze tegenwoordig een extra locatie hebben met grotere kamers en dat we een upgrade hebben gehad. We blijken in een gloednieuw appartement te overnachten met een stuk meer ruimte dan op onze kamer in Tokio.
 
-Lotte en Floor willen graag ‘s-middags chillen op bed en Margot en ik gaan het centrum verkennen. We komen terecht bij het [Yoshijima Heritage House](http://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000168.html), de voormalige villa en sake stokerij van een voorname familie. Het pand uit 1908 is nog in originele staat en geeft een mooi beeld van Japanse manier van leven van een eeuw geleden.
+Lotte en Floor willen graag 's middags chillen op bed en Margot en ik gaan het centrum verkennen. We komen terecht bij het [Yoshijima Heritage House](http://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000168.html), de voormalige villa en sake stokerij van een voorname familie. Het pand uit 1908 is nog in originele staat en geeft een mooi beeld van Japanse manier van leven van een eeuw geleden.
 
 {{< image classes="fig-33 nocaption" src="/images/japan/yoshijima-1.jpg" thumbnail="/images/japan/yoshijima-1-thumbnail.jpg" group="inline-images" title="Yoshijima Heritage House">}}
 {{< image classes="fig-33" src="/images/japan/yoshijima-2.jpg" thumbnail="/images/japan/yoshijima-2-thumbnail.jpg" group="inline-images" title="Yoshijima Heritage House">}}

@@ -14,7 +14,7 @@ metaAlignment: center
 ---
 
 Dag 3. Vandaag vertrekken we naar ons eigenlijke reisdoel: Cambodja. Onze
-vlucht vertrekt om drie uur ’s-middags, na het ontbijt vertrekken we naar Hong
+vlucht vertrekt om drie uur 's middags, na het ontbijt vertrekken we naar Hong
 Kong Station voor de Airport Express terug naar het vliegveld. Omdat we niet
 helemaal zaten op te letten in de bus en twee haltes te laat zijn uitgestapt,
 hadden we nog een kleine extra trip door Central.

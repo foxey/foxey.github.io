@@ -62,7 +62,7 @@ eerst deze reis last van de muggen en prompt zijn we niet voorbereid: Margot is
 een easy target in een korte jurk zonder DEET. Dat overkomt ons niet meer!
 
 De volgende morgen bezoeken we eerst de drijvend markt. Deze collectie houten
-jonken fungeert als een soort groothandel voor groenten en fruit: 's-morgens
+jonken fungeert als een soort groothandel voor groenten en fruit: 's morgens
 leveren de boeren in kleine bootjes hun oogst af en in de loop van de dag wordt
 deze weer verkocht aan een ieder die zich komt melden. De handelaren houden er
 een grappig gebruik op na om duidelijk te maken wat ze verkopen: op de

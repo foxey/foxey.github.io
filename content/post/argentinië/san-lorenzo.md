@@ -24,7 +24,7 @@ verkeerde kant uit...
 
 
 We zitten al klaar bij de gate, wanneer de dame van de checkin op ons afkomt.
-De vlucht naar Salta gaat toch, maar pas om één uur 's-middags. We krijgen wel
+De vlucht naar Salta gaat toch, maar pas om één uur 's middags. We krijgen wel
 een lunch aangeboden. Uiteindelijk landen we met drie en een half uur
 vertraging op het vliegveld van een zonnig Salta, waar we worden opgewacht door
 mijn broer.
@@ -44,7 +44,7 @@ geheimen van het echte Argentijnse grillen.
 Na de toch wel koude dagen in Buenos Aires en Iguazú is de temperatuur in Salta
 erg aangenaam en luieren we de volgende dag lekker in de tuin. De kinderen
 kunnen de verleiding niet weerstaan om het zwembad uit te proberen, ondanks dat
-het water maar zo'n 12 graden is. 's-Middags wippen Victor en Romina nog even
+het water maar zo'n 12 graden is. 's Middags wippen Victor en Romina nog even
 langs. Romina heeft een concert vanavond in het Teatro Provencial en ze heeft
 voor ons allemaal vrijkaarten. Helaas begint het concert pas om half tien en
 zien wij het niet zitten om morgen weer met twee vaatdoekjes rond te lopen.

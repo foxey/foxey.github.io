@@ -34,7 +34,7 @@ hebben een kleine bungalow met twee kamers. Alle bungalows staan in een
 prachtige groene tuin vol palmbomen, die direct uitkomt op het strand met
 prachtig wit strand. Dat wordt genieten!
 
-Wanneer we 's-avonds in het restaurant van het resort gaan eten, blijkt wel dat
+Wanneer we 's avonds in het restaurant van het resort gaan eten, blijkt wel dat
 het vreselijk low-season is in de regentijd. Pas als we bijna klaar met eten
 zijn komen er nog vier gasten binnen. We twijfelen een beetje over de keuze van
 het menu, want de prijzen zijn drie tot vier keer hoger dan we gewend zijn.
@@ -47,7 +47,7 @@ wordt 'ie tuna genoemd. Dit nodigt niet uit tot een herhaling.
 De volgende morgen kunnen Lotte en Floor niet wachten tot we klaar zijn met het
 ontbijt om naar het zwembad te gaan. Het weer is heel behoorlijk, al verdwijnt
 de zon nog regelmatig achter een wolk. Na drie weken zon zijn we niet al te
-gedisciplineerd meer met het smeren van zonnebrand en 's-avonds blijkt dat we
+gedisciplineerd meer met het smeren van zonnebrand en 's avonds blijkt dat we
 dat allemaal moeten bezuren: Lotte heeft vuurrode konen, Floor haar rug is
 verbrand, Margot heeft haar borst genadeloos verbrand en mijn benen zien er
 niet uit. Stom, stom, stom. Rond half zeven lopen we richting het centrum van
@@ -63,11 +63,11 @@ in orde, want niemand heeft de dag erna ergens last van. Van het eten dan wel
 te verstaan, want we zijn nog allemaal rood van gisteren. Gelukkig is het het
 grootste gedeelte van de dag bewolkt, wat verdere schade beperkt. De dames
 vermaken zich op het strand, waar ze met de bakken met water voor je voeten
-heksensoepjes maken. 's-Avonds eten we weer bij ons vaste tentje op de night
+heksensoepjes maken. 's Avonds eten we weer bij ons vaste tentje op de night
 market, waar ze ons al kennen. De dames van het restaurant noemen Floor "no
 baby", omdat ze niet zo genoemd wil worden.
 
-Vandaag is het alweer de laatste dag op Phu Quoc... Als we 's-morgens naar het
+Vandaag is het alweer de laatste dag op Phu Quoc... Als we 's morgens naar het
 ontbijt lopen schijnt de zon al prachtig en omdat het dood tij is, is de zee
 kraakhelder. Na het ontbijt neem ik met mijn duikbril en Lotte's snorkel een
 duik in zee. Op de rotsen voor de kust zie in zowaar nog wat harde en zachte
@@ -76,10 +76,10 @@ die net boven water steken zijn volledig begroeid met oesters. Als ik
 dichterbij kom zie een paar krabben wegschieten. Blijkbaar wordt er door de
 lokale bevolking zo intensief op de krabben gejaagd, dat ze doodsbang van
 mensen zijn geworden. Veel plekjes om zich te verstoppen hebben ze niet, dus ik
-krijg ze nog prima in m'n vizier. 's-middags laten Margot en ik ons verwennen
+krijg ze nog prima in m'n vizier. 's middags laten Margot en ik ons verwennen
 met een massage. Ongelofelijk hoeveel kracht de fragiele masseuse in haar
 handen heeft! Overbodig, natuurlijk, om te vertellen dat Lotte en Floor weer de
-hele dag in het zwembad liggen. 's-avonds bestellen we op de night market onze
+hele dag in het zwembad liggen. 's avonds bestellen we op de night market onze
 laatste portie fried spring rolls en BBQ prawn.
 
 {{< image classes="fig-100" src="/images/vietnam/sunset.jpg" thumbnail="/images/vietnam/sunset-thumbnail.jpg" group="inline-images" title="Laatste dag...">}}

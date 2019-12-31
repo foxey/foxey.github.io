@@ -18,7 +18,7 @@ Vanmorgen rijden we het dal in richting Ho Chi Min City (HCMC, veel
 Zuid-Vietnamezen hebben het nog over Saigon). Na nog een kleine plensbui klaart
 het op. De heuvels rond Dalat zijn perfect geschikt voor het telen van koffie
 en thee, wat hier ook op grote schaal gebeurd. Vietnam is na Brazilië
-'s-werelds grootste export van koffie. We stoppen bij een thee plantage en
+'s werelds grootste export van koffie. We stoppen bij een thee plantage en
 later bij een winkel waar de thee ook gesorteerd wordt. Helaas is het noch voor
 koffie als voor thee oogsttijd en valt er verder weinig te zien. Lotte vind het
 wel prachtig dat er twee boontjes (net zoals die van thuis) uit een koffiebes
@@ -100,7 +100,7 @@ naar de helikopter, die nog op de heliport op het dak staat. Als we weer buiten
 staan zijn de kinderen zo bekaf, en wij eigenlijk ook, dat we besluiten de rest
 van de middag te relaxen op de hotelkamer. Een drukke stad als HCMC is toch
 minder geschikt om met twee kleuters te verkennen. Daarom is het ook goed dat
-we morgen alweer vertrekken naar de Mekong Delta. 's-avonds scoren we nog wel
+we morgen alweer vertrekken naar de Mekong Delta. 's avonds scoren we nog wel
 even twee North Face rugzakjes voor de kids. &euro;7,50. Voor twee stuks. Hoe
 dat kan is me een raadsel...
 

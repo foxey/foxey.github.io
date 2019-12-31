@@ -93,7 +93,7 @@ kinderen vinden het heerlijk eb zijn er niet uit te slaan.  Met de belofte dat
 we vanmiddag nog 1 keer moeten passen en dat ze een ijsje krijgen lukt het om
 ze mee te krijgen. Alles zit goed en Margot besluit last minute nog een broek
 te laten maken en een giletje voor bij de eerste broek. Het is inmiddels half 5
-en de dames beloven dat het 's-avonds om 8 uur allemal af is. Wij zijn
+en de dames beloven dat het 's avonds om 8 uur allemal af is. Wij zijn
 benieuwd.
 
 We eten een hapje in een binnentuin waar Lotte helemaal opgaat in haar

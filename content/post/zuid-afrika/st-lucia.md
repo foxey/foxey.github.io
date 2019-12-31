@@ -27,7 +27,7 @@ Nog even snel een hapje eten voor we in bed kruipen. Volgens de Rough Guide is <
 
 Vandaag een lekker dagje niks doen. De kinderen zwemmen, Margot leest een boek en ik sorteer de vijfhonderd foto's uit Hluhlule-Imfolozi en schrijf aan het reisverslag. Er is gratis wifi op het terrein, maar de verbinding is zo slecht dat het aardig wat <i>Zen</i> kost om de site bij te werken. Uiteindelijk ben ik aan het eind van de dag niet zo ver opgeschoten als ik had gewild.
 
-'s-Middags slaan we een enorme steak in bij de supermarkt. De Spar hier lijkt in geen velden of wegen op die in Kaapstad. Waar het filiaal in Kaapstad luxer was dan de Albert Heijn lijkt dit meer op de Aldi. De hazelnootpasta is op en er is in het hele dorp niet te krijgen. Bummer voor de kids.
+'s Middags slaan we een enorme steak in bij de supermarkt. De Spar hier lijkt in geen velden of wegen op die in Kaapstad. Waar het filiaal in Kaapstad luxer was dan de Albert Heijn lijkt dit meer op de Aldi. De hazelnootpasta is op en er is in het hele dorp niet te krijgen. Bummer voor de kids.
 
 Om half vijf gaat de braai aan. We kunnen natuurlijk niet drie weken in Zuid-Afrika zijn zonder op zijn minst één keer te braaien! Als al het hout eindelijk tot kool is verbrand is het twee uur later, maar dan heb je ook een perfecte steak! (De Afrikaners zijn trouwens specialisten in zwart geblakerd vlees en alles wordt zwaar in de BBQ marinade gezet, zodat het vaak gissen blijft of je een karbonade of lamskotelet zit te eten.)
 
@@ -48,13 +48,13 @@ Vanaf de boot hebben we een mooi uitzicht over de oevers. Her en der liggen de n
 
 {{< image classes="right fig-50" src="/images/zuid-afrika/lake_st_lucia_sunset.jpg"
 thumbnail="/images/zuid-afrika/lake_st_lucia_sunset-thumbnail.jpg" group="inline-images" title="Zonsondergang bij Lake St. Lucia">}}
-'s-Middags ga ik met mijn zus nog snel even naar Cape Vidal, waar je kunt snorkelen. De weg er naartoe loopt door het <a href="http://en.wikipedia.org/wiki/ISimangaliso_Wetland_Park">iSimangaliso Wetland Park</a> en we hebben geluk als we een neushoorn de weg zien oversteken en later ook nog een aantal Kudu's. Ik zal je de rest van de opsomming besparen... Ook over het snorkelen valt niet veel te vertellen. De branding beukt op de rotsen, ondanks dat het net eb is geweest en dit volgens zeggen de beste tijd op te snorkelen. Ik zie wel wat vissen, maar door al het opwervelend zand is het zicht slecht en de stroming put me behoorlijk uit. Na een half uur lig ik uit te hijgen op het strand. Op weg terug naar St. Lucia nemen we een <i>dirt road</i> langs het meer. Een waar paradijs voor vogelaars, we zien verschillende soorten reigers en ooievaars.
+'s Middags ga ik met mijn zus nog snel even naar Cape Vidal, waar je kunt snorkelen. De weg er naartoe loopt door het <a href="http://en.wikipedia.org/wiki/ISimangaliso_Wetland_Park">iSimangaliso Wetland Park</a> en we hebben geluk als we een neushoorn de weg zien oversteken en later ook nog een aantal Kudu's. Ik zal je de rest van de opsomming besparen... Ook over het snorkelen valt niet veel te vertellen. De branding beukt op de rotsen, ondanks dat het net eb is geweest en dit volgens zeggen de beste tijd op te snorkelen. Ik zie wel wat vissen, maar door al het opwervelend zand is het zicht slecht en de stroming put me behoorlijk uit. Na een half uur lig ik uit te hijgen op het strand. Op weg terug naar St. Lucia nemen we een <i>dirt road</i> langs het meer. Een waar paradijs voor vogelaars, we zien verschillende soorten reigers en ooievaars.
 
-'s-Avonds eten we in de kantine van de lokale waterskivereniging en visclub, compleet met opgezette zwaardvissen aan de muur.
+'s Avonds eten we in de kantine van de lokale waterskivereniging en visclub, compleet met opgezette zwaardvissen aan de muur.
 
 <i>St. Lucia, 6 augustus 2011</i>
 
-Het is over met het mooie weer. Als we opstaan is de lucht grauw en grijs en dit verandert de rest van de dag ook niet. We lanterfanteren wat af en als het 's-middags even droog is zoeken we schelpen op het strand. Hopelijk is morgen beter...
+Het is over met het mooie weer. Als we opstaan is de lucht grauw en grijs en dit verandert de rest van de dag ook niet. We lanterfanteren wat af en als het 's middags even droog is zoeken we schelpen op het strand. Hopelijk is morgen beter...
 
 {{< image classes="left fig-50" src="/images/zuid-afrika/familiediner.jpg"
 thumbnail="/images/zuid-afrika/familiediner-thumbnail.jpg" group="inline-images" title="Familiediner">}}

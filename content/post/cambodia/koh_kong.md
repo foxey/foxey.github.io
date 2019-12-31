@@ -37,7 +37,7 @@ kwaad tot erger wordt, slaapt vannacht ieder in hun eigen bed. Chapeau!
 {{< image classes="right fig-33" src="/images/cambodja/20160729_064148.jpg"
 thumbnail="/images/cambodja/20160729_064148-thumbnail.jpg"
 group="inline-images" title="Smileys">}}
-De hele nacht komt de regen met bakken uit de hemel en ook ’s-morgens ziet de 
+De hele nacht komt de regen met bakken uit de hemel en ook 's morgens ziet de 
 lucht nog egaal grauw. Op deze manier valt mijn verjaardag letterlijk in het 
 water! De lodges liggen ongeveer vijftien kilometer van de kust aan de rand van 
 een groot Mangrovebos. We hebben een tour door de Mangroves geboekt, maar 

@@ -37,7 +37,7 @@ href="http://www.facebook.com/pages/Darma-Premium-Bakery/271689062862433"
 title="Darma Premium Bakery" target="_blank">fantastische bakkerij</a>, die
 recht tegenover het appartementencomplex ligt. Argentijnen hebben de reputatie
 zoetekauwen te zijn en dat blijkt al uit het assortiment: vitrines vol met
-taarten, gebakjes en bonbons. 's-Middags vallen de kinderen om van de slaap,
+taarten, gebakjes en bonbons. 's Middags vallen de kinderen om van de slaap,
 maar als we ze nu in bed leggen, wordt het de hele nacht spoken. Een goed
 moment dus om een korte verkenning van de buurt te maken.
 
@@ -51,7 +51,7 @@ gaan. De mensen op straat zijn relaxed en behulpzaam (nog een verschil met
 Parijs!). Het hoogtepunt van de wandeling is een boetiek met _haute
 couture_ voor honden.
 
-De Argentijnse eetgewoonten lijken op die in Spanje. Het diner wordt 's-avonds
+De Argentijnse eetgewoonten lijken op die in Spanje. Het diner wordt 's avonds
 rond tienen genuttigd en we vonden dus geen restaurant waar we voor achten
 terecht konden. Dat gingen de kids zeker niet halen (en wij ook niet). Helaas
 hebben we daarom vanavond nog geen kennis mogen maken met de lokale keuken, al
@@ -111,7 +111,7 @@ hetzelfde sfeertje als in Palermo Hollywood, maar deze kant van Palermo is --
 misschien omdat ze dichter bij het centrum ligt -- iets verder ontwikkeld en
 maken de rauwe kantjes her en der al plaats voor commercie. Het is iets na
 vieren als we thuis komen. De kinderen zijn hard toe aan een paar uurtjes
-<i>vrije tijd</i>. Omdat we 's-middags al uitgebreid warm geluncht hebben,
+<i>vrije tijd</i>. Omdat we 's middags al uitgebreid warm geluncht hebben,
 halen we ons diner bij de bakker aan de overkant. Met verschillende soorten
 Empanadas, verse salade en ijs toe komen we niks te kort. Wanneer na het eten
 rond negen uur iedereen als een blok in slaap val, grijp ik nog even de kans om

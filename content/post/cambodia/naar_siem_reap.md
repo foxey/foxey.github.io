@@ -24,14 +24,14 @@ tussenstop in Kompong Thom.  Niet de meest ideale invulling van je verjaardag:
 de halve dag in een busje.  Kompong Thom’s grootste attractie zijn een drietal
 grote bomen langs de Stung Sen rivier waarin overdag honderden
 [Vleerhonden](https://nl.wikipedia.org/wiki/Vleerhonden) hangen. Het schijnt
-een imposant gezicht te zijn als deze ’s-avonds tegelijk wegvliegen, maar
+een imposant gezicht te zijn als deze 's avonds tegelijk wegvliegen, maar
 helaas hebben we geen tijd om hier op te wachten.
 
 <div class="inline-center">
 <iframe name="tubeframe" width="80%" height="315" src="https://www.youtube.com/embed/bmk0kpTswB0" frameborder="0"  fs="0" rel="0" modestbranding="0" showinfo="0"></iframe>
 </div>
 
-’s-Avonds komen we aan in het [Sambor Village
+'s Avonds komen we aan in het [Sambor Village
 hotel](http://samborvillage.asia/). We hebben een prachtige familiekamer en tot
 grote vreugde van de kinderen is er ook een zwembad. Het hotel ligt net buiten
 het centrum, maar er staan gratis fietsen. Helaas konden we geen restaurant

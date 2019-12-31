@@ -34,7 +34,7 @@ href="http://www.pvl.co.za/">Piesang Valley Lodge</a>. John, de enthousiaste
 enthousiaste eigenaar, heeft drie terriers, die ons luid blaffend begroeten.
 Lotte heeft wat overreding nodig voordat ze uit de auto durft te komen.
 Gelukkig draait ze snel bij wanneer ze haar zus de honden ziet aaien. Op
-aanraden van John rijden we 's-middags nog naar het <a
+aanraden van John rijden we 's middags nog naar het <a
 href="http://www.tenikwa.com/">Tenikwa Wild Cat Sanctuary</a>, wat op een
 steenworp afstand ligt van twee van de meest populaire attracties in de
 omgeving: Monkeyland en Birds of Eden. In Tenikwa worden Zuid-Afrikaanse wilde
