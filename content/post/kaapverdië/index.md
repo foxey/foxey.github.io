@@ -42,7 +42,7 @@ De volgende morgen vertrekken we na het ontbijt met een open taxi naar Cova de P
 {{< image classes="fig-33 nocaption fancybox" src="/images/kaapverdië/paul-valley-selfie.jpg" thumbnail="/images/kaapverdië/paul-valley-selfie-thumbnail.jpg" group="inline-gallery-5" title="Cova de Pául">}}
 {{< image classes="fig-100 fancybox clear" src="/images/kaapverdië/cova-de-paul-pano.jpg" thumbnail="/images/kaapverdië/cova-de-paul-pano-thumbnail.jpg" group="inline-gallery-5" title="Cova de Pául">}}
 
-Na een kleine klim door de krater is de rest van de wandeling bergafwaarts. Een makkelijke start voor onze ongetrainde benen. Halverwege genieten we met uitzicht tot aan zee van de pastasalade, die Hatty ons als lunch heeft meegegeven. Als we 's middags weer bij de huisjes aankomen hebben we nog net tijd voor een duik in het zwembad. Zolang de zon schijnt is het heerlijk warm, maar door de lage winterzon gaat deze wel al iets na drieën achter de bergtoppen onder. In de schaduw daalt de temperatuur dan snel.
+Na een kleine klim door de krater is de rest van de wandeling bergafwaarts. Een makkelijke start voor onze ongetrainde benen. Halverwege genieten we met uitzicht tot aan zee van de pastasalade, die Hetty ons als lunch heeft meegegeven. Als we 's middags weer bij de huisjes aankomen hebben we nog net tijd voor een duik in het zwembad. Zolang de zon schijnt is het heerlijk warm, maar door de lage winterzon gaat deze wel al iets na drieën achter de bergtoppen onder. In de schaduw daalt de temperatuur dan snel.
 
 Maandagmorgen moet ik heel vroeg op, omdat ik om half acht bij [Blue Eden](https://www.blue-eden.com/), het duikcentrum in Porto Novo, wordt verwacht. Na een pauze van tien jaar ga ik weer duiken! Gelukkig is het in Kaapverdië twee uur vroeger dan in Nederland en is mijn bio-klok nog niet verschoven. Om zes uur zit ik aan een vers gebakken omelet als ontbijt. De chauffeur die me naar Porto Novo brengt spreekt goed Engels. Tijdens de uur durende rit naar het duikcentrum hoor ik veel zaken over deze bijzondere eilandengroep, die pas sinds 1975 onafhankelijk is van Portugal. Sinds de jaren ‘90 zijn veel zaken structureel verbeterd, met name op het gebied van infrastructuur en scholing. Zo is de weg waar we op rijden door de EU gefinancierd en pas in 2009 in gebruik genomen. Elk dorp heeft tegenwoordig een basisschool. Er is leerplicht tot en met twaalf jaar. Naast Portugees wordt er ook Engels en Frans onderwezen. Ook zijn er tegenwoordig twee universiteiten, één in Mindelo en de andere in de hoofdstad Praia.
 
@@ -58,7 +58,7 @@ We genieten van een overdadige lunch bij een restaurantje dat bovenop één van 
 {{< image classes="fig-25 nocaption fancybox" src="/images/kaapverdië/paul-4.jpg" thumbnail="/images/kaapverdië/paul-4-thumbnail.jpg" group="inline-gallery-6" title="Santo Antão - Pául vallei">}}
 {{< image classes="fig-100 fancybox clear" src="/images/kaapverdië/santo-antao-pano.jpg" thumbnail="/images/kaapverdië/santo-antao-pano-thumbnail.jpg" group="inline-gallery-6" title="Santo Antão - Pául vallei">}}
 
-Het is kerstavond en Hatty heeft voor een kerstdiner gezorgd dat wordt opgevrolijkt door een liveband. Na een paar nummers blijkt dat ze zelf ook een prima zangstem heeft! De stemming zit er goed in.
+Het is kerstavond en Hetty heeft voor een kerstdiner gezorgd dat wordt opgevrolijkt door een liveband. Na een paar nummers blijkt dat ze zelf ook een prima zangstem heeft! De stemming zit er goed in.
 
 {{<youtube id="WdEBMY53G_I">}}
 
