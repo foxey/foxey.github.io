@@ -21,7 +21,7 @@ Hiroshima naar Fukuoka. Het blijft beschamend hoe iedere keer weer blijkt dat
 je topografische kennis van een land zo beperkt is als je er nog nooit geweest
 bent: ik had geen idee dat Fukuoka helemaal in het zuiden van Japan ligt.
 
-{{< image classes="fig-100 nocaption clear" src="/images/japan/tokyo-here-i-come.jpg" thumbnail="/images/japan/tokyo-here-i-come-thumbnail.jpg" group="inline-images" title="Tokyo here I come">}}
+{{< image classes="fig-100 fancybox nocaption clear" src="/images/japan/tokyo-here-i-come.jpg" thumbnail="/images/japan/tokyo-here-i-come-thumbnail.jpg" group="inline-images" title="Tokyo here I come">}}
 
 Het aankomende vertrek is nog even spannend, want gisteren zijn er door een
 storing in de brandstofbevoorrading negen uur geen vliegtuigen vertrokken
@@ -32,7 +32,7 @@ Dat laatste blijkt uiteindelijk niet helemaal waar, want vertrekken we pas
 wanneer we al anderhalf uur in het vliegtuig zitten. Hebben wij even mazzel
 dat de airconditioning het wel doet!
 
-{{< image classes="fig-33 right" src="/images/japan/postoffice.jpg" thumbnail="/images/japan/postoffice-thumbnail.jpg" group="inline-images" title="Pardon my French">}}We komen zatermorgen aan op Tokyo Narita Airport en na het gebruikelijke
+{{< image classes="fig-33 fancybox right" src="/images/japan/postoffice.jpg" thumbnail="/images/japan/postoffice-thumbnail.jpg" group="inline-images" title="Pardon my French">}}We komen zatermorgen aan op Tokyo Narita Airport en na het gebruikelijke
 ritueel bij de douane en de bagageband haal ik allereerst onze vier
 SIM-kaarten op bij het postkantoor. De komende drie weken hebben we alle vier
 7GB aan data om te verstoken aan Google Maps en Google Translate. De volgende
@@ -57,8 +57,8 @@ moet naspelen. Alle instructies zijn alleen in het Japans, waardoor ik maar op
 safe speel en een spelletje Mario Kart speel. Geen idee welke opties ik
 geselecteerd heb, maar uiteindelijk heb ik wel de eerste plaats!
 
-[{{< image classes="fig-25 nocaption" src="/images/japan/music-gaming.jpg" thumbnail="/images/japan/music-gaming-thumbnail.jpg" group="inline-images" title="Let's play music!">}}](https://photos.app.goo.gl/QGqPDTJUfSZCsbvq9)
-{{< image classes="fig-75 nocaption clear" src="/images/japan/mario.jpg" thumbnail="/images/japan/mario-thumbnail.jpg" group="inline-images" title="Mario Champion!">}}
+[{{< image classes="fig-25 fancybox nocaption" src="/images/japan/music-gaming.jpg" thumbnail="/images/japan/music-gaming-thumbnail.jpg" group="inline-images" title="Let's play music!">}}](https://photos.app.goo.gl/QGqPDTJUfSZCsbvq9)
+{{< image classes="fig-75 fancybox nocaption clear" src="/images/japan/mario.jpg" thumbnail="/images/japan/mario-thumbnail.jpg" group="inline-images" title="Mario Champion!">}}
 
 {{< image classes="fig-33 right" src="/images/japan/ganzo-sushi.jpg" thumbnail="/images/japan/ganzo-sushi-thumbnail.jpg" group="inline-images" title="Ganzo Sushi">}}
 Zoals we in Azië gewend zijn wordt het rond half zeven vrijwel direct donker

@@ -32,8 +32,8 @@ canonifyurls = true
 
 [author]
   name = "Michiel Fokke"
-  bio = "Verhalen van mijn reizen over de verschillende continenten"
-  job = "Wereldreiziger"
+  bio = "Een collectie reisverhalen"
+  #job = "Wereldreiziger"
   location = "Rotterdam, Nederland"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "michiel@fokke.org"

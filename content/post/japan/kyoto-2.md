@@ -49,15 +49,15 @@ Na de lunch willen de dames terug richting de koele hotelkamer. Ik heb zin om no
 
 Het kasteel is prachtig. Met name de wandschilderingen in het paleis en de tuinen er omheen. Japanners hebben een obsessie voor details en volgens de overlevering heeft de keizer zich persoonlijk bemoeid met de keuze en de plaatsing van de planten.
 
-{{< image classes="fig-50" src="/images/japan/kyoto-castle-1.jpg" thumbnail="/images/japan/kyoto-castle-1-thumbnail.jpg" group="inline-images" title="Nijo castle - 14:47">}}
-{{< image classes="fig-50 clear" src="/images/japan/kyoto-castle-2.jpg" thumbnail="/images/japan/kyoto-castle-2-thumbnail.jpg" group="inline-images" title="Nijo castle - 16:10">}}
+{{< image classes="fig-50 fancybox" src="/images/japan/kyoto-castle-1.jpg" thumbnail="/images/japan/kyoto-castle-1-thumbnail.jpg" group="inline-gallery-4" title="Nijo castle - 14:47">}}
+{{< image classes="fig-50 fancybox clear" src="/images/japan/kyoto-castle-2.jpg" thumbnail="/images/japan/kyoto-castle-2-thumbnail.jpg" group="inline-gallery-4" title="Nijo castle - 16:10">}}
 
 Inmiddels is de lucht na 10 druppels regen weer opgeklaard en heb ik de plu weer in gebruik als parasol. De wandeling naar het hotel is vanaf hier even ver als naar het keizerlijk paleis. Ik besluit daar nog een kijkje te gaan nemen en van daar de bus naar het hotel te pakken. Het paleis is al dicht, maar het enorme park er omheen niet, maar wel bijna uitgestorven. In alle rust loop ik in de schaduw van de bomen een rondje door het groen. Ik had graag nog een glimp opgevangeng van de paleizen, maar ze zijn allebei ommuurd door een ruim drie meter hoge muur en de poorten zitten al potdicht. Het park wordt er niet minder mooi op.
 
 Ik pak de bus terug naar het hotel. Vanaf de bushalte loop ik nog door een woonwijk. Het is altijd boeiend om te zien hoe lokale leefgewoonten van elkaar verschillen. Deze wijk staat vol met _vrijstaande_ huizen, al zit er maar 10 cm tussen elk huis en heeft geen van hen een tuin of dakterras. Blijkbaar leven Japanners thuis eigenlijk alleen binnen. De benedenverdieping van bijna elk huis gaat voor een groot deel op aan een parkeerplaats voor een auto. Parkeren op straat is hier geen optie.
 
-{{< image classes="fig-50 nocaption" src="/images/japan/kyoto-woonhuis-2.jpg" thumbnail="/images/japan/kyoto-woonhuis-2-thumbnail.jpg" group="inline-images" title="Kyoto woonhuis">}}
-{{< image classes="fig-50 nocaption clear" src="/images/japan/kyoto-woonhuis-1.jpg" thumbnail="/images/japan/kyoto-woonhuis-1-thumbnail.jpg" group="inline-images" title="Kyoto woonhuis">}}
+{{< image classes="fig-50 fancybox nocaption" src="/images/japan/kyoto-woonhuis-2.jpg" thumbnail="/images/japan/kyoto-woonhuis-2-thumbnail.jpg" group="inline-gallery-5" title="Kyoto woonhuis">}}
+{{< image classes="fig-50 fancybox nocaption clear" src="/images/japan/kyoto-woonhuis-1.jpg" thumbnail="/images/japan/kyoto-woonhuis-1-thumbnail.jpg" group="inline-gallery-5" title="Kyoto woonhuis">}}
 
 Thuis aangekomen is het alweer bijna tijd voor diner. We besluiten vanavond sushi te eten bij het [restaurant](https://maps.google.com/?cid=9833862244813816183) vlak bij ons hotel. De keuze in de buurt is niet heel ruim, wat blijkbaar ook geldt voor de locals. Het is een filiaal van Kurasushi en enorm populair. Als we er aankomen moeten we een reservering maken bij een automaat. De wachttijd is ongeveer 5 kwartier. Omdat er weinig alternatief is besluiten we te wachten en doden de tijd een beetje met rondkijken in de ¥100 shop naast het restaurant.
 

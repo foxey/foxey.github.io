@@ -2,7 +2,7 @@
 keywords:
 - reisverhalen
 categories:
-- kaapverdië
+- kaapverdie
 archives:
 - 2019
 title: "São Vincente en Santo Antão"

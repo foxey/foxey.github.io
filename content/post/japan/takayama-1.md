@@ -21,6 +21,12 @@ Voor het zover is ontbijten we eerst nog een keer bij de _'Franse'_ bakkerij bij
 
 De reis naar Toyama verloopt vlot en na de overstap zitten we in een sneltrein, die een stuk langzamer rijdt dan de Shinkansen. Dat is helemaal niet erg, want we zitten helemaal voorin de trein en tijdens de rit door de bergen hebben we een prachtig uitzicht.
 
+{{< image classes="fig-50 fancybox nocaption" src="/images/japan/takayama-2.jpg" thumbnail="/images/japan/takayama-2-thumbnail.jpg" group="inline-gallery-1" title="Omgeving Takayama">}}
+{{< image classes="fig-50 fancybox nocaption" src="/images/japan/takayama-1.jpg" thumbnail="/images/japan/takayama-1-thumbnail.jpg" group="inline-gallery-1" title="Omgeving Takayama">}}
+{{< image classes="fig-33 fancybox nocaption" src="/images/japan/takayama-4.jpg" thumbnail="/images/japan/takayama-4-thumbnail.jpg" group="inline-gallery-1" title="Omgeving Takayama">}}
+{{< image classes="fig-33 fancybox nocaption" src="/images/japan/takayama-3.jpg" thumbnail="/images/japan/takayama-3-thumbnail.jpg" group="inline-gallery-1" title="Omgeving Takayama">}}
+{{< image classes="fig-33 fancybox nocaption clear" src="/images/japan/takayama-5.jpg" thumbnail="/images/japan/takayama-5-thumbnail.jpg" group="inline-gallery-1" title="Omgeving Takayama">}}
+
 In Takayama aangekomen is het ondertussen ongeveer even warm als in Tokio, maar het is een stuk minder vochtig, dus voelt de hitte veel minder benauwd aan. Het guest house heeft een e-mail gestuurd met het bericht dat ze tegenwoordig een extra locatie hebben met grotere kamers en dat we een upgrade hebben gehad. We blijken in een gloednieuw appartement te overnachten met een stuk meer ruimte dan op onze kamer in Tokio.
 
 Lotte en Floor willen graag 's middags chillen op bed en Margot en ik gaan het centrum verkennen. We komen terecht bij het [Yoshijima Heritage House](http://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000168.html), de voormalige villa en sake stokerij van een voorname familie. Het pand uit 1908 is nog in originele staat en geeft een mooi beeld van Japanse manier van leven van een eeuw geleden.

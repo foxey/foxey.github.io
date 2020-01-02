@@ -16,8 +16,8 @@ De twee belangrijkste bezienswaardigheden van Kanazawa zijn het kasteel en het K
 
 Het is inmiddels al na tienen en de zon doet de stad alweer genadeloos opwarmen. Dat wordt liters water drinken vandaag. De koffieshop ligt op tien minuten lopen van het park met het kasteel. De meest gebouwen zijn niet zo oud, omdat alles in Japan met enige regelmaat afbrandt. Via de [Kahoku-mon Gate](http://www.pref.ishikawa.jp/siro-niwa/kanazawajou/e/kahoku_gate/index.html) betreden we het voorplein van het kasteel. De poort is compleet herbouwd en pas in 2010 voltooid in de staat van 1772.
 
-{{< image classes="fig-75" src="/images/japan/kahoku-mon.jpg" thumbnail="/images/japan/kahoku-mon-thumbnail.jpg" group="inline-images" title="Kahoku-mon">}}
-{{< image classes="fig-25 clear" src="/images/japan/kanazawa-castle.jpg" thumbnail="/images/japan/kanazawa-castle-thumbnail.jpg" group="inline-images" title="Kanazawa Kasteel">}}
+{{< image classes="fig-75 fancybox" src="/images/japan/kahoku-mon.jpg" thumbnail="/images/japan/kahoku-mon-thumbnail.jpg" group="inline-images-1" title="Kahoku-mon">}}
+{{< image classes="fig-25 fancybox clear" src="/images/japan/kanazawa-castle.jpg" thumbnail="/images/japan/kanazawa-castle-thumbnail.jpg" group="inline-images-1" title="Kanazawa Kasteel">}}
 
 Een tweede poort, de [Ishikawa Mon](https://www.hot-ishikawa.jp/english/kanko/20038.html), leidt naar het Kenroku-en park, één van de top drie parken in Japan en volgens sommige Japanners zelfs het mooiste. We zijn er gisteren kort geweest in het donker, maar overdag komen alle zorgvuldige details toch beter tot z'n recht. We wandelen langs de verschillende vijvers en het theehuis, dat helaas net dicht is tussen 12:00 en 13:00.
 Aan de noordzijde van het park ligt een hele serie eethuisjes en rond lunchtijd zoeken we er eentje uit met een smakelijke avocado sandwich op het menu. Als we willen bestellen blijkt er nog maar voor één gerecht brood. Dat wordt 'm dus niet… Gelukkig ligt er om de hoek nog een aardig restaurantje waar we een echte Japanse lunch nuttigen met misosoep, rijst en gefrituurde vis.
@@ -31,9 +31,9 @@ In het guesthouse hebben we in een toeristische folder een winkel ontdekt waar z
 
 We besluiten om op de weg terug naar het guesthouse nog een highlight aan te doen: het Higashiyama Higashi Chaya District, één van de buurten waar nog theehuizen zijn waar traditioneel Geisha's gasten vermaken met zang en dans. Dit blijkt wel een erg toeristische bestemming met vooral souvenirwinkels, waar heel veel met bladgoud versierde spullen verkocht worden, inclusief ijsjes met bladgoud. Het leukste aan deze buurt vond ik nog de Japanse stellen voor wie dit uitje pas compleet is als ze zelf in traditionele kimono gekleed gaan. Het levert mooie plaatjes op.
 
-{{< image classes="fig-25" src="/images/japan/higashi-chaya-1.jpg" thumbnail="/images/japan/higashi-chaya-1-thumbnail.jpg" group="inline-images" title="Klatergoud">}}
-{{< image classes="fig-50" src="/images/japan/higashi-chaya-2.jpg" thumbnail="/images/japan/higashi-chaya-2-thumbnail.jpg" group="inline-images" title="Theehuis in Higashi Chaya">}}
-{{< image classes="fig-25 clear" src="/images/japan/higashi-chaya-3.jpg" thumbnail="/images/japan/higashi-chaya-3-thumbnail.jpg" group="inline-images" title="Toeristen in Higashi Chaya">}}
+{{< image classes="fig-25 fancybox" src="/images/japan/higashi-chaya-1.jpg" thumbnail="/images/japan/higashi-chaya-1-thumbnail.jpg" group="inline-images-2" title="Klatergoud">}}
+{{< image classes="fig-50 fancybox" src="/images/japan/higashi-chaya-2.jpg" thumbnail="/images/japan/higashi-chaya-2-thumbnail.jpg" group="inline-images-2" title="Theehuis in Higashi Chaya">}}
+{{< image classes="fig-25 fancybox clear" src="/images/japan/higashi-chaya-3.jpg" thumbnail="/images/japan/higashi-chaya-3-thumbnail.jpg" group="inline-images-2" title="Toeristen in Higashi Chaya">}}
 
 Terug in het guesthouse ploffen we met een biertje en een zak chips in de gezamenlijke ruimte. Mooie tijd om even verder te werken aan het reisverslag.
 
