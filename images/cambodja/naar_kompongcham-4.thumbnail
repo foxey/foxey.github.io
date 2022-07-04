@@ -1,0 +1,3 @@
+-normalize
+-crop 2176x3264+0+0
+-resize 750

@@ -1,0 +1,2 @@
+-crop 750x750+2000+600 -resize 750x750
+-normalize

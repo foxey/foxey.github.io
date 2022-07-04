@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on fokke.org - Reisverhalen</title>
+    <link>https://fokke.org/archives/</link>
+    <description>Recent content in Archives on fokke.org - Reisverhalen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Thu, 07 May 2009 12:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://fokke.org/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2009</title>
+      <link>https://fokke.org/archives/2009/</link>
+      <pubDate>Thu, 07 May 2009 12:00:00 +0100</pubDate>
+      
+      <guid>https://fokke.org/archives/2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2011</title>
+      <link>https://fokke.org/archives/2011/</link>
+      <pubDate>Sun, 21 Aug 2011 14:32:08 +0100</pubDate>
+      
+      <guid>https://fokke.org/archives/2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20112</title>
+      <link>https://fokke.org/archives/20112/</link>
+      <pubDate>Wed, 10 Aug 2011 19:54:21 +0100</pubDate>
+      
+      <guid>https://fokke.org/archives/20112/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012</title>
+      <link>https://fokke.org/archives/2012/</link>
+      <pubDate>Sun, 05 Aug 2012 21:49:46 +0100</pubDate>
+      
+      <guid>https://fokke.org/archives/2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2013</title>
+      <link>https://fokke.org/archives/2013/</link>
+      <pubDate>Sun, 03 Mar 2013 16:02:12 +0100</pubDate>
+      
+      <guid>https://fokke.org/archives/2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>https://fokke.org/archives/2016/</link>
+      <pubDate>Tue, 02 Aug 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://fokke.org/archives/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>https://fokke.org/archives/2018/</link>
+      <pubDate>Fri, 04 May 2018 14:01:04 +0200</pubDate>
+      
+      <guid>https://fokke.org/archives/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>https://fokke.org/archives/2019/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://fokke.org/archives/2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
