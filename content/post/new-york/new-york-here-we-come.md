@@ -31,7 +31,7 @@ Misschien helpt het ook als je als familie reist.
 De taxirit naar het hotel is al een feest van herkenning. Onderweg komen we
 langs het tennis stadion van Flushing Meadows en ook het Citi Field Stadion
 waar Lotte en ik later deze week heen gaan. Daarna rijden we door Queens over
-de Robert F Kennedy Bridge naar Manhattan. Overal zie je die bakstenen
+de Robert F. Kennedy Bridge naar Manhattan. Overal zie je die bakstenen
 appartementengebouwen met hun typische Amerikaanse stalen brandtrappen. Als we
 de eerste keer 5<sup>th</sup> Avenue oprijden ziet het er toch minder glamoureus uit dan
 _in de film_, maar in het noorden van Manhattan is er dan ook veel minder
