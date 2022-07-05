@@ -1,3 +1,3 @@
-[![build status](https://travis-ci.org/foxey/foxey.github.io.svg?branch=hugo-src)](https://travis-ci.org/foxey/foxey.github.io)
+[![build status](https://github.com/foxey/foxey.github.io/actions/workflows/hugo-deploy.yml/badge.svg?branch=hugo-src)](https://github.com/foxey/foxey.github.io/actions/workflows/hugo-deploy.yml)
 # [fokke.org](http://fokke.org)
 Static files for my website built with [Hugo](https://gohugo.io)
