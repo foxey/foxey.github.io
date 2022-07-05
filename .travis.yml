@@ -10,6 +10,7 @@ install:
 
 # Build the website
 script:
+  - ./bin/hugo version
   - ./bin/hugo
   - echo fokke.org > public/CNAME
   - echo '[![build status](https://travis-ci.org/foxey/foxey.github.io.svg?branch=hugo-src)](https://travis-ci.org/foxey/foxey.github.io)' > public/README.md
