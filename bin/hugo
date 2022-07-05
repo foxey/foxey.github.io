@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 BIN=$(dirname $0)/hugo.$(uname -m)
 if [ -x $BIN ]; then
 	$BIN "$@"
