@@ -49,6 +49,9 @@ canonifyurls = true
   [privacy.youtube]
     privacyEnhanced = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # Menu Configuration
 [[menu.main]]
   weight = 1
@@ -59,7 +62,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Categories"
+  name = "Bestemmingen"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 # [[menu.main]]
@@ -71,13 +74,13 @@ canonifyurls = true
 [[menu.main]]
   weight = 4
   identifier = "archives"
-  name = "Archives"
+  name = "Archief"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
 [[menu.main]]
   weight = 5
   identifier = "about"
-  name = "About"
+  name = "Over mij"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
 

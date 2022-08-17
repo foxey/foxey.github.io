@@ -1,0 +1,35 @@
+---
+keywords:
+- reisverhalen
+categories:
+- costa-rica
+archives:
+- 2022
+title: Schildpadden spotten in Tortuguero
+date: 2022-07-27T09:00:00+02:00
+thumbnailImagePosition: left
+thumbnailImage: /images/costa-rica/kolibrie-750.jpg
+coverImage: /images/costa-rica/kolibrie-cover.jpg
+metaAlignment: center
+draft: true
+---
+De reis begint vandaag weer over _dirt roads_ langs ananas plantages. We passeren bedrijven van verschillende bekende merken uit de Nederlandse supermarkt: Dole, Del Monte. Meer naar het zuiden zijn de wegen weer geasfalteerd en schieten we een stuk sneller op. Als we rond half tien het stadje [Muelle San Carlos](https://goo.gl/maps/BsjKZDLm76KJJct68) passeren zien we aan de horizon een imposante vulkaan oprijzen. Dit moet haast wel de [Arenal vulkaan](https://nl.wikipedia.org/wiki/Arenal_(vulkaan)) zijn, één van de tien meest actieve vulkanen op de wereld.
+
+De rit voert verder over Ruta 4 naar Ruta 32, één van de belangrijkste snelwegen van Costa Rica en de verbinding tussen San José en de havenstad Limon. De weg wordt al een aantal jaren verbreed van twee naar vier banen, maar is nog niet klaar. We rijden daarom om en om op de linker en de rechter twee rijbanen. Bij iedere wissel van baan laat Kate van Waze ons weten dat we verder moeten op 'keep left/right on Ruta 32 Limon'. Na 10 keer gillen we het melig mee.
+
+Rond de lunch komen we aan in Siquirres, waar we even lunchen bij een [soda](https://goo.gl/maps/N9QsmmDpnqhWH9NCA) aan het Plaza de Siquirres. Na de lunch rijden we richting het noorden naar de kust. De weg is al vrij snel weer onverhard en loopt langs immense bananenplantages. Geen verrassing, want op Ruta 32 stikte het al van de vrachtauto's met koelcontainers, vooral van Chiquita. In alle elektriciteitskabels hangen rood met witte ballen. Mijn vermoeden dat deze er hangen om vliegtuigen te waarschuwen wordt snel bevestigd als we langs een landingsstrook rijden met een hangar met een sproeivliegtuigje. Precies op dat moment landt er ook een helicopter. Ik ben bang dat hier weinig biologische bananen vandaan komen.
+
+Als we aankomen in Parismina staat Gerardo, de eigenaar van de Esmeralda lodge ons al op te wachten. We brengen de bagage aan boord en varen de rivier op. Net als toen we naar Drake Bay voeren, zien we vrijwel direct zien we een krokodil wegzwemmen. Het lijkt wel alsof ze het er om doen! De Esmeraldo lodge ligt aan de Estero Parismina op de landstrook tussen de rivier en het strand en de enige mogelijkheid om er te komen is per boot. Er staan vier zelfgebouwde houten bungalows op het terrein, waarvan er één door Gerardo en zijn ouders wordt bewoond. We zijn hier alweer de enige gasten. De moeder van Gerardo kookt en hijzelf is ook onze gids. Het lijkt meer op logeren bij een oom en tante dan in een hotel. Heel bijzonder!
+Vanavond gaan we proberen een schildpad te zien die op het strand haar eieren aan het leggen is. 
+
+Bij Tortuguero komen twee soorten schildpadden voor, de lederschildpad en de groene schildpad. Juli valt in het broedseizoen van de groene schildpad en als we geluk hebben kunnen we er vanavond één zien. Om te voorkomen dat de schildpadden gestoord worden tijdens het eieren leggen mag er 's nachts zo min mogelijk licht gebruikt worden en zeker geen wit, alleen rood. Gerardo laat ons daarom 's middags alvast het pad naar het strand zien, zodat we ons in het donker straks beter kunnen oriënteren. Op weg naar het strand zien we een paar toekans, waarvan ééntje het nest van een specht aan het inspecteren is. Toekans zijn echte alleseters en eten naast kikkers ook jonge vogels van andere soorten.
+
+Als na het eten de zon onder is gegaan, vertrekken we opnieuw richting het strand. Het is bijzonder dat in het bos 's nachts meer lawaai is dan overdag. Na 10 minuten komen we aan op het strand. Het is nieuwe maan en half bewolkt, waardoor we geen hand voor ogen zien. We lopen richting de monding van de rivier, een stuk van ongeveer drie kilometer. Een aantal keer zien we sporen van een schildpad en gaat Gerardo kijken of er inderdaad een schildpad aan de leg is. Helaas zijn de sporen iedere keer oud. Het is wel verbazingwekkend hoe goed Gerardo is het bijna donker zelf het onderscheid kan maken tussen een spoor dat van zee weggaat en eentje die naar de zee terug voert.
+Na bijna een uur lopen hebben we de monding van de rivier bereikt, maar nog geen schildpad gezien.
+We keren om en hopen er het beste van. Wanneer we bijna weer terug zijn bij het pad terug naar de lodge hebben we beet! Een vers spoor leidt helemaal het strand over tot bijna bij de bosrand. Als Gerardo gaat kijken is de schildpad nog het nest aan het graven. Als het dier dan gestoord wordt is de kans groot dat ie wegvlucht. We wachten daarom totdat Gerardo zeker weet dat de schildpad haar eieren aan het leggen is. Met de rode lantaarn aan bekijken we dit bijzondere tafereel. Als de schildpad bijna klaar is en de kuil weer gaat dichtmaken gaan wij terug naar het strand. Als we terug bij de lodge zijn hebben we bijna acht kilometer door het pikkedonker gelopen, maar het was het zeker waard!
+
+De volgende morgen gaan we na het ontbijt met Gerardo Tortuguero National Park bezoeken. We varen met zijn boot door het park naar het dorpje Tortuguero. Het eerste stuk, waar de rivier nog niet zo breed is varen we rustig aan waardoor we goed zicht hebben op alle dieren. We zien veel vogels, een paar kaaimannen en krokodillen en verschillende apen. Gerardo heeft een scherp oog en een aantal keer stopt hij als ie een vogel of kaaiman spot, terwijl wij echt niets gezien hebben. We hebben vanmorgen al gezegd dat we nog geen luiaards gezien hebben en hij heeft ons beloofd extra op te letten. Een aantal keer stopt hij de boot bij plekken met veel Cecropia bomen, waarvan ze de bladeren graag eten, maar helaas laten ze zich niet zien vandaag. Het laatste stuk is de rivier erg breed en varen we met ±30 km/u een stuk harder. Vlak voor we in het dorp aankomen vermindert Gerardo plotseling snelheid en zo waar zit er een luiaard in een boom aan de oever. Het is een bruine, twee-tenige luiaard en is exact zo schattig als op Discovery Channel! Met hun trage beweging hebben ze iets koddigs, al vertelt Gerardo dat deze variant territoriaal is en nog best agressief kan doen.
+
+Na de lunch gaan we nog een stuk lopend het park in. We horen bij de ingang dat de paden behoorlijk modderig zijn en dat we beter rubberlaarzen kunnen dragen. Een slimme dame heeft vlak voor de ingang een goeie handel met het verhuren. Ik heb in Corcovado een lelijke schaafwond opgelopen van het schuren van de bovenkant van de laarzen tegen mijn schenen en om die niet weer open te halen zijn kniekousen ideaal. Gelukkig blijken die ook aanwezig en blijven mijn benen vandaag heel.
+
+We varen tijdens het _golden hour_ terug naar de lodge om rond borreltijd van een welverdiend biertje te genieten. Morgen vertrekken we alweer naar onze laatste bestemming: een paar lazy dagen relaxen aan het strand bij Puerto Viejo.
