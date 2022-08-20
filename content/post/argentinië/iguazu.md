@@ -39,13 +39,11 @@ op, zodat we nog een herkansing krijgen.
 
 <div align="center">
 <iframe name="tubeframe" width="90%" height="480"
-src="//www.youtube.com/embed/lkjQEKrpM5c?rel=0" frameborder="0"
+src="https://www.youtube.com/embed/lkjQEKrpM5c?rel=0" frameborder="0"
 allowfullscreen>
 </iframe></br>
-<a class="button this-win"
-href="//www.youtube.com/embed/lkjQEKrpM5c?rel=0"
-target="tubeframe">1</a><a class="button this-win"
-href="//www.youtube.com/embed/Ps_xtg2ErvA?rel=0" target="tubeframe">2</a>
+<a class="button this-win" href="https://www.youtube.com/embed/lkjQEKrpM5c?rel=0" target="tubeframe">1</a>
+<a class="button this-win" href="https://www.youtube.com/embed/Ps_xtg2ErvA?rel=0" target="tubeframe">2</a>
 </div>
 
 Het dorp bij de watervallen heet toepasselijk Puerto Iguazú en dankt zijn
