@@ -24,7 +24,7 @@ In de omgeving van Monteverde zijn talloze sportiviteiten te doen, maar waar de 
 
 <div align="center">
 <iframe name="tubeframe" width="90%" height="480"
-src="//www.youtube.com/embed/P4p-aaDFKCQ?rel=0" frameborder="0"
+src="https://www.youtube.com/embed/P4p-aaDFKCQ?rel=0" frameborder="0"
 allowfullscreen>
 </iframe></br>
 <a class="button this-win" href="https://www.youtube.com/embed/P4p-aaDFKCQ?rel=0" target="tubeframe">1</a>
@@ -55,4 +55,9 @@ Onderweg naar het park kwamen we in de auto langs een hypermoderne lodge op basi
 
 's Middags vermaken we ons met een boek op de veranda, terwijl het wildlife aan ons voorbij trekt. Nergens hebben we meer dieren gezien direct vanuit onze luie stoel: kolibries, mot mot's, coati's, agouti's en 's avonds komt er meestal een troep kapucijnenaapjes voorbij. Die laatsten zijn echt grappig om te zien, zoals ze ogenschijnlijk moeiteloos van tak naar tak en boom naar boom springen, soms zelfs met een kleintje op de rug. Vanavond gaan we de keuken in onze lodge uitproberen. We hebben verse groenten gekocht en bij [Monteverde Wholefoods](https://goo.gl/maps/tmhA8vmy6X84jv7u7) verse geitenkaas.
 
-{{<youtube id="2EU4_KAWAiI">}}
+<div align="center">
+<iframe name="tubeframe-2" width="90%" height="480"
+src="https://www.youtube.com/embed/2EU4_KAWAiI?rel=0" frameborder="0"
+allowfullscreen>
+</iframe>
+</div>

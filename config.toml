@@ -172,3 +172,13 @@ unsafe= true
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
+  [[params.sharingOptions]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    url = "https://twitter.com/intent/tweet?text=%s"
+
+  [[params.sharingOptions]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    url = "https://www.linkedin.com/shareArticle?mini=true&url=%s"
