@@ -11,7 +11,6 @@ thumbnailImagePosition: left
 thumbnailImage: /images/costa-rica/kolibrie-750.jpg
 coverImage: /images/costa-rica/kolibrie-cover.jpg
 metaAlignment: center
-draft: true
 ---
 {{<image classes="fig-50 right" src="/images/costa-rica/arenal.jpg" thumbnail="/images/costa-rica/arenal-thumbnail.jpg" group="inline-images" title="Arenal vulkaan">}}
 De reis begint vandaag weer over _dirt roads_ langs ananas plantages. We passeren bedrijven van verschillende bekende merken uit de Nederlandse supermarkt: Dole, Del Monte. Meer naar het zuiden zijn de wegen weer geasfalteerd en schieten we een stuk sneller op. Als we rond half tien het stadje [Muelle San Carlos](https://goo.gl/maps/BsjKZDLm76KJJct68) passeren zien we aan de horizon een imposante vulkaan oprijzen. Dit moet haast wel de [Arenal vulkaan](https://nl.wikipedia.org/wiki/Arenal_(vulkaan)) zijn, één van de tien meest actieve vulkanen op de wereld.
