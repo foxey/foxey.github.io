@@ -8,8 +8,8 @@ archives:
 title: Schildpadden spotten in Tortuguero
 date: 2022-07-27T09:00:00+02:00
 thumbnailImagePosition: left
-thumbnailImage: /images/costa-rica/kolibrie-750.jpg
-coverImage: /images/costa-rica/kolibrie-cover.jpg
+thumbnailImage: /images/costa-rica/jaguar-prints-750.jpg
+coverImage: /images/costa-rica/tortuguero-cover.jpg
 metaAlignment: center
 ---
 {{<image classes="fig-50 right" src="/images/costa-rica/arenal.jpg" thumbnail="/images/costa-rica/arenal-thumbnail.jpg" group="inline-images" title="Arenal vulkaan">}}
