@@ -8,7 +8,7 @@ archives:
 title: Caribisch relaxen in Puerto Viejo
 date: 2022-07-29T09:00:00+02:00
 thumbnailImagePosition: left
-thumbnailImage: /images/costa-rica/playa-negro-750.jpg
+thumbnailImage: /images/costa-rica/puerto-viejo-4-750.jpg
 coverImage: /images/costa-rica/playa-negro-cover.jpg
 metaAlignment: center
 ---
