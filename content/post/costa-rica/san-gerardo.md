@@ -54,4 +54,5 @@ Na de lunch wagen we een nieuwe poging en lopen we nog een uurtje door de jungle
 {{<image classes="fig-33 nocaption fancybox" src="/images/costa-rica/trogon-trail-3.jpg" thumbnail="/images/costa-rica/trogon-trail-3-thumbnail.jpg" group="end-gallery" title="Trogon Trail">}}
 {{<image classes="fig-33 nocaption fancybox clear" src="/images/costa-rica/trogon-trail-2.jpg" thumbnail="/images/costa-rica/trogon-trail-2-thumbnail.jpg" group="end-gallery" title="Trogon Trail">}}
 
-{{<alert info>}}"Pura Vida!" refereert naar de relaxte levensstijl die veel Tico's er op na houden en wordt in Costa Rica veel gebruikt als groet, zowel als "hallo" als "tot ziens" in de zin van "het ga je goed!"{{</alert>}}
+{{<alert info>}}_"Pura Vida!"_ refereert naar de relaxte levensstijl die veel Tico's er op na houden en wordt in Costa Rica veel gebruikt als groet, zowel als "hallo" als "tot ziens" in de zin van "het ga je goed!"{{</alert>}}
+{{<alert info>}} **Tip voor potentiële reizigers:** Heb je ook plannen voor een vakantie naar Costa Rica? Wij hebben prima hulp gehad van Toine Aarts van [Costa Rica Vakantie](https://www.costaricavakantie.nl) met het samenstellen van deze reis en het boeken van de accommodaties.{{</alert>}}

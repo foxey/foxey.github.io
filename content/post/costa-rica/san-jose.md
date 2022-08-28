@@ -24,3 +24,5 @@ Nog één laatste keer langs de pomp om de tank te vullen voordat de huurauto st
 
 {{<image classes="fig-50" src="/images/costa-rica/panama-city.jpg" thumbnail="/images/costa-rica/panama-city-thumbnail.jpg" group="inline-images" title="Uitzicht op Panamá City vanuit de nieuwe terminal">}}
 {{<image classes="fig-50 clear" src="/images/costa-rica/slow-player.jpg" thumbnail="/images/costa-rica/slow-player-thumbnail.jpg" group="inline-images" title="Afleiding tijdens de stop-over">}}
+
+{{<alert info>}} **Tip voor potentiële reizigers:** Heb je ook plannen voor een vakantie naar Costa Rica? Wij hebben prima hulp gehad van Toine Aarts van [Costa Rica Vakantie](https://www.costaricavakantie.nl) met het samenstellen van deze reis en het boeken van de accommodaties.{{</alert>}}
